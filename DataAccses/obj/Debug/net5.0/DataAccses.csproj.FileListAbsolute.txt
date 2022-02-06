@@ -1,0 +1,5 @@
+C:\Users\Hi\Desktop\dorduncuhaftaodevi-ibrahim-TURANCI\DataAccses\obj\Debug\net5.0\DataAccses.csproj.AssemblyReference.cache
+C:\Users\Hi\Desktop\dorduncuhaftaodevi-ibrahim-TURANCI\DataAccses\obj\Debug\net5.0\DataAccses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi\Desktop\dorduncuhaftaodevi-ibrahim-TURANCI\DataAccses\obj\Debug\net5.0\DataAccses.AssemblyInfoInputs.cache
+C:\Users\Hi\Desktop\dorduncuhaftaodevi-ibrahim-TURANCI\DataAccses\obj\Debug\net5.0\DataAccses.AssemblyInfo.cs
+C:\Users\Hi\Desktop\dorduncuhaftaodevi-ibrahim-TURANCI\DataAccses\obj\Debug\net5.0\DataAccses.csproj.CoreCompileInputs.cache
